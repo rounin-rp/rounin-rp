@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rounin-rp
 - 👀 I’m interested in Cryptography, Blockchain, Cybersecurity
-- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me, email -> rajatpetwal67@gmail.com
 
